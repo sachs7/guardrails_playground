@@ -1,4 +1,4 @@
-# guardrails_playground
+# Guardrails Playground - break the models!
 
 A [HuggingFace challenge](https://huggingface.co/blog/arena-lighthouz) to break the hidden models in giving up sensitive information. Two models were provided, either/both/none of them could have a guardrail implementation. The goal was to make the models give out sensitive information.
 
